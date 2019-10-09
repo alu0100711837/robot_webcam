@@ -11,6 +11,7 @@ import serial
 import time
 
 X_RES = 800
+
 Y_RES = 600
 X_CENTER = X_RES / 2
 Y_CENTER = Y_RES / 2
